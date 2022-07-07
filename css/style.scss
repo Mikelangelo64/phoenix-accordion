@@ -621,6 +621,7 @@ h6{
     
     //.separate-accordion__item 
     &__item {
+        cursor: pointer;
         padding: 30px;
         border: 1px solid #E3E3E3;
         background-color: #F7F7F7;
@@ -641,6 +642,7 @@ h6{
 
     //.separate-accordion__title 
     &__title {
+        cursor: pointer;
         font-weight: 700;
         display: flex;
         justify-content: space-between;
@@ -649,6 +651,7 @@ h6{
 
     //.separate-accordion__toggle
     &__toggle{
+        cursor: pointer;
         flex: 0 0 22px;
         width: 22px;
         height: 22px;
@@ -682,6 +685,7 @@ h6{
     
     //.separate-accordion__body 
     &__body {
+        cursor: pointer;
         margin-top: 14px;
         a{
             color: inherit;
